@@ -1,2 +1,2 @@
-# Assignmment_2
+# Assignment_2
 ## Mongo DB Project
